@@ -1,6 +1,10 @@
 # Minecraft-Reinforcement-Learning
-Deep Q Learning for resolving a Partially Observable MDP based on Minecraft environment.
+We here compare Deep Recurrent Q-Learning and Deep Q-Learning on two simple missions in a Partially Observable Markov Decision Process (POMD) based on Minecraft environment.
 We use gym-minecraft which allows the use of the MalmoProject with an OpenAI like API.
+
+Our work is in the notebook [DRQN_vs_DQN_minecraft.ipynb](https://raw.githubusercontent.com/vincentberaud/Minecraft-Reinforcement-Learning/master/DRQN_vs_DQN_minecraft.ipynb).
+
+Our paper can be found [here]().
 
 Work realised in collaboration with :
 
@@ -20,8 +24,6 @@ Work realised in collaboration with :
     ```your_pip_folder/site-packages/gym_minecraft-0.0.2-py3.6.egg/gym-minecraft/envs/```
 - The missions we used. Put them in 
     ```your_pip_folder/site-packages/gym_minecraft-0.0.2-py3.6.egg/gym-minecraft/assets/```
-
-*Warning: The CliffWalking environment doesn’t work (the move action doesn’t work)*
 
 ## Models
 You can choose between 3 models :
