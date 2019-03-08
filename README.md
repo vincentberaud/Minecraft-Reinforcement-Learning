@@ -1,10 +1,11 @@
 # Minecraft-Reinforcement-Learning
-We here compare Deep Recurrent Q-Learning and Deep Q-Learning on two simple missions in a Partially Observable Markov Decision Process (POMD) based on Minecraft environment.
+We here compare Deep Recurrent Q-Learning and Deep Q-Learning on two simple missions in a Partially Observable Markov Decision Process (POMDP) based on Minecraft environment.
 We use gym-minecraft which allows the use of the MalmoProject with an OpenAI like API.
 
 Our work is in the notebook [DRQN_vs_DQN_minecraft.ipynb](https://raw.githubusercontent.com/vincentberaud/Minecraft-Reinforcement-Learning/master/DRQN_vs_DQN_minecraft.ipynb).
 
-Our paper can be found [here]().
+
+<!--- Our paper can be found [here](). --->
 
 Work realised in collaboration with :
 
