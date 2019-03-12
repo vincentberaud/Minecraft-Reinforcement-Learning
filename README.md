@@ -4,8 +4,7 @@ We use gym-minecraft which allows the use of the MalmoProject with an OpenAI lik
 
 Our work is in the notebook [DRQN_vs_DQN_minecraft.ipynb](https://raw.githubusercontent.com/vincentberaud/Minecraft-Reinforcement-Learning/master/DRQN_vs_DQN_minecraft.ipynb).
 
-
-<!--- Our paper can be found [here](). --->
+Our paper can be found [here](https://arxiv.org/abs/1903.04311).
 
 Work realised in collaboration with :
 
