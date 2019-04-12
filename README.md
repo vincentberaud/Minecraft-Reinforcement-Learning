@@ -27,7 +27,7 @@ Work realised in collaboration with :
 
 ## Models
 You can choose between 3 models :
-- DQN : Convolutional Neural Network with the current frame
+- Simple DQN : Convolutional Neural Network with the current frame
 ![CNN architecure](https://raw.githubusercontent.com/vincentberaud/Minecraft-Reinforcement-Learning/master/CNN_Architecture.png)
 - DQN : Convolutional Neural Network with the last 4 frames
 ![StackedCNN architecure](https://raw.githubusercontent.com/vincentberaud/Minecraft-Reinforcement-Learning/master/StackedCNN_Architecture.png)
